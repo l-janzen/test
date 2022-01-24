@@ -1,3 +1,7 @@
 h2 {
     color: aqua;
 }
+
+article {
+    background-image: linear-gradient(lightpink, transparent);
+}
